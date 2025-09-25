@@ -25,7 +25,7 @@ on:
         type: choice
         options:
           - 'oneplus_12'
-          - 'oneplus_ace3_pro'
+          - 'oneplus_ace3_pro_v'
           - 'oneplus_ace5'
           - 'oneplus_13r'
           - 'oneplus_pad2'
